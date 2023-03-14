@@ -1,0 +1,30 @@
+
+.logoMenu {
+	width: 160px;
+	height: 170px;
+	padding-top: 20px;
+	padding-left: 10px;
+}
+ul {
+	display: flex;
+	justify-content: end;
+	text-align: center;
+	padding-right: 4%;
+	margin-bottom: 5%;
+}
+
+
+li {
+	display: inline-block;
+	padding-left: 1%;
+	margin-top: -4%;
+}
+nav {
+	background-color: $background-color_1;
+	height: 190px;
+}
+
+nav a{
+    text-decoration: none;
+    color: $color_2;
+}
